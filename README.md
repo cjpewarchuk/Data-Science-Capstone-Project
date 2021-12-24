@@ -7,3 +7,4 @@ The order of files for this project is:
 1. Data Collection
 2. Webscraper
 3. Data Wrangling
+4. Exploratory Data Analysis with SQL (Credentials removed)
