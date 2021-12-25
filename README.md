@@ -8,3 +8,4 @@ The order of files for this project is:
 2. Webscraper
 3. Data Wrangling
 4. Exploratory Data Analysis with SQL (Credentials removed)
+5. Launch Site Location
