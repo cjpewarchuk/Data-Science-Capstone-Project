@@ -9,3 +9,5 @@ The order of files for this project is:
 3. Data Wrangling
 4. Exploratory Data Analysis with SQL (Credentials removed)
 5. Launch Site Location
+6. SpaceX Dashboard
+7. Machine Learning and prediction.
