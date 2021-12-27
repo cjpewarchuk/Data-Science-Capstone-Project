@@ -11,3 +11,4 @@ The order of files for this project is:
 5. Launch Site Location
 6. SpaceX Dashboard
 7. Machine Learning and prediction.
+8. Final Presentation (PDF)
